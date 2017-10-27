@@ -785,8 +785,8 @@ h2.resp-accordion:hover {
 }
 
 #profile .profile-r {
-    padding-right: 0;
-    padding-top: 10;
+    padding-right: 10;
+    padding-top: 20;
 }
 #profile .cycle-slideshow {
     margin-top: 19px;
